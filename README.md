@@ -1,2 +1,1 @@
-# delete
-delete this file
+TinDog Starting Files
